@@ -12,3 +12,6 @@ Testing project procedure is as follow :
 3. run migration
 4. run the server 
 5. Navigate to '127.0.0.1:8000'
+
+
+![image](https://user-images.githubusercontent.com/95700260/187265252-4b755398-3fbd-47c7-9746-79c382ba035f.png)
